@@ -1,0 +1,14 @@
+.background{  
+ background: url('http://lorempixum.com/1024/768') repeat;  
+ position: fixed;
+width: 100%;  
+ height: 300%; /* adjust the height according to the length of contents */  
+ top: 0;
+       left: 0;  
+     z-index: -1;  
+   }  
+  .contents  
+  {  
+   color: #fff;  
+    font-family: arial;  width: 600px;     margin: auto;       line-height: 20px;  
+     font-size: 16px; }  
